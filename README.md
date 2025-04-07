@@ -9,4 +9,4 @@
 
 🛠️ My Toolkit:
 ```
-["🐍 Python", "⚙️ Verilog", "⚡AI Dev", "📊Data Visualization"]
+["🐍 Python", "⚙️ Verilog", "⚡AI Dev", "📊Data Visualization", "🧠ML Algorithms"]

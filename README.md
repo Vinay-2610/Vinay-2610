@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Vinay 
 
-`Vibe Programmer` | `Python + Verilog Explorer` | `AI Artisan`
+`Vibe Programmer` | `Python + Data Explorer` | `AI Artisan`
 
 💻Currently:
 - 🐍 Cooking Python projects (AI bots, generative art, automations, analysers)  
-- 🔌 Learning Verilog, Databases for hardware magic  
+- 🔌 Learning Python, Databases for useful applications  
 - 🤝 Seeking real-world impactful collaborations  
 
 🛠️ My Toolkit:
 ```
-["🐍 Python", "⚙️ Verilog", "⚡AI Dev", "📊Data Visualization", "🧠ML Algorithms"]
+["🐍 Python", "⚙️ Postgresql", "⚡AI Dev", "📊Data Visualization", "🧠ML Algorithms"]

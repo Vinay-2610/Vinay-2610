@@ -31,13 +31,6 @@
 
 > **Learn → Build → Break → Debug → Improve → Repeat 🔁**
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinay-2610&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Vinay-2610&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 ### 🤝 Let's Connect
 
 <p align="center">

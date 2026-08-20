@@ -6,41 +6,56 @@
   <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,postgresql,git,github" />
 </p>
 
-### 🚀 About Me
+### 🧑‍💻 About Me
 
 * 🎓 Engineering Student passionate about **Backend Development & Data**
-* ☕ Building applications with **Java, Spring Boot & REST APIs**
-* 📊 Working with **SQL, Python & Data Analysis**
-* 🧩 Practicing **DSA & Object-Oriented Programming**
-* 🌱 Currently learning **Spring Boot, Microservices & Advanced SQL**
-* 🤝 Open to **internships, collaborations & opportunities**
+* ☕ Building with **Java, Spring Boot & REST APIs**
+* 📊 Exploring **SQL, Data Analysis & Machine Learning**
+* 🧩 Practicing **DSA & Problem Solving**
+* 🌱 Currently learning **Microservices & Advanced SQL**
+* 🤝 Open to **collaboration, internships & opportunities**
+
+### ⚡ Current Focus
+
+`☕ Java Backend` → `🌱 Spring Boot` → `🗄️ SQL` → `📊 Data Analysis` → `🧩 DSA`
 
 ### 🛠️ Tech Stack
 
 `Java` `Spring Boot` `Python` `SQL` `MySQL` `PostgreSQL` `REST APIs` `Git` `GitHub`
 
-### 📌 Featured Projects
+### 🎯 2026 Goals
 
-🔹 **Roommate Expense Splitter** — Java + Spring Boot + SQL + Graph Algorithms
-🔹 **Online Job Portal** — Java + REST API + SQL
-🔹 **Credit Card Fraud Detection** — Python + Data Analysis + ML
-🔹 **Smart Electricity Analyzer** — Python + LightGBM + Streamlit
+☕ Master Java & Spring Boot • 🗄️ Advanced SQL • 🧩 Stronger DSA • ☁️ Learn Cloud • 🤝 Open Source
 
-### 📊 GitHub Stats
+### 💡 Developer Mindset
+
+> **Learn → Build → Break → Debug → Improve → Repeat 🔁**
+
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinay-2610&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-2610&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Vinay-2610&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-### 🤝 Connect With Me
+### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/Vinay-2610">GitHub</a> •
-  <a href="https://www.linkedin.com/in/i-vinay-blessy-babu-a42370344">LinkedIn</a> •
-  <a href="mailto:ivinayblessybabu@gmail.com">Email</a>
+
+<a href="https://github.com/Vinay-2610">
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/i-vinay-blessy-babu-a42370344">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:ivinayblessybabu@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
 </p>
 
 <p align="center">
-  ☕ Code • 📊 Analyze • 🚀 Build
+  ☕ Code • 🗄️ Query • 📊 Analyze • 🚀 Build
 </p>

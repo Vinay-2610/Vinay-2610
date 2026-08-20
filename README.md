@@ -8,25 +8,25 @@
 
 ### 🧑‍💻 About Me
 
-* 🎓 Engineering Student passionate about **Backend Development & Data**
-* ☕ Building with **Java, Spring Boot & REST APIs**
-* 📊 Exploring **SQL, Data Analysis & Machine Learning**
-* 🧩 Practicing **DSA & Problem Solving**
-* 🌱 Currently learning **Microservices & Advanced SQL**
-* 🤝 Open to **collaboration, internships & opportunities**
+- 🎓 Engineering Student passionate about **Backend Development & Data**
+- ☕ Building with **Java, Spring Boot & REST APIs**
+- 📊 Exploring **SQL, Data Analysis & Machine Learning**
+- 🧩 Practicing **DSA & Problem Solving**
+- 🌱 Currently learning **Microservices & Advanced SQL**
+- 🤝 Open to **collaboration, internships & opportunities**
 
 ### ⚡ Current Focus
 
 <p>
-  <img src="https://img.shields.io/badge/☕_Java_Backend-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   →
-  <img src="https://img.shields.io/badge/🌱_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   →
-  <img src="https://img.shields.io/badge/🗄️_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   →
-  <img src="https://img.shields.io/badge/📊_Data_Analysis-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data_Analysis-F2C811?style=for-the-badge&logo=python&logoColor=black" />
   →
-  <img src="https://img.shields.io/badge/🧩_DSA-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge" />
 </p>
 
 ### 🛠️ Tech Stack
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
@@ -44,7 +45,13 @@
 
 ### 🎯 2026 Goals
 
-☕ Master Java & Spring Boot • 🗄️ Advanced SQL • 🧩 Stronger DSA • ☁️ Learn Cloud • 🤝 Open Source
+<p>
+  <img src="https://img.shields.io/badge/Java_&_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced_SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ### 💡 Developer Mindset
 
@@ -57,11 +64,13 @@
 <a href="https://github.com/Vinay-2610">
   <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/i-vinay-blessy-babu-a42370344">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:ivinayblessybabu@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
